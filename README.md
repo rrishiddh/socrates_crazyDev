@@ -1,12 +1,42 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## Project Name: socrates
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### A brief description: 
+- socrates is a AI chat bot, build with react.js and styling with tailwind-css.
+ 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Dependencies:
+- localforage : ^1.10.0,
+- match-sorter : ^8.0.0,
+- react : ^19.0.0,
+- react-dom : ^19.0.0,
+- react-router-dom : ^7.3.0,
+- sort-by : ^1.2.0,
+
+### How to run on local machine?
+
+1. Open your terminal or command prompt.
+
+2. Use the git clone command followed by the repository URL:-  git clone 'repository-url'
+
+- Replace 'repository-url' with the actual URL of the Git repository you want to clone.
+
+3. To run the project: Navigate to the project directory:- cd 'directory-name' 
+
+4. Run 'npm install' to install project dependencies.
+
+5. Run 'npm run dev' to run the project locally.
+
+
+
+###
+
+##  Live Link: 
+### Vercel : [https://socrates-crazy-dev.vercel.app/](https://socrates-crazy-dev.vercel.app/)
+
+### 
+
+
+<hr/>
